@@ -1,7 +1,8 @@
 """
+A Project by Vaishnav Chincholkar
 A simple Python project to anticipate the Beauty of Mathematics.
 The following project generates times tables visually.
-See Mathologer video on Times Tables: https://youtu.be/qhbuKbxJsk8
+Got the Idea from a Mathologer video on Times Tables: https://youtu.be/qhbuKbxJsk8
 GUI Parameters:
     Radii: Radius of the Circle
     Radii Increment: By how much the radius should change when keyboard shortcut is used.
